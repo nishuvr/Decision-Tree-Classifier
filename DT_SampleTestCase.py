@@ -1,4 +1,4 @@
-from assignment import *   
+from decision_tree_classifier import *   
 
 def test_case():
     outlook = 'overcast,overcast,overcast,overcast,rainy,rainy,rainy,rainy,rainy,sunny,sunny,sunny,sunny,sunny'.split(',')
